@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Prajapati-HitenCode
+- 👋 Hi, I’m Prajapati Hiten and I have Completed B.C.A Course from Veer Narmad South Gujarat University.
 - 👀 I’m interested in Android App Developer
-- 🌱 I’m currently learning MVVM Architecture
+- 🌱 I’m currently learning MVVM Architecture and flutter bloc
 - 📫 How to reach me Email:-prajapatihiten386@gmail.com
 
 <!---
