@@ -2,7 +2,7 @@
  # **:raising_hand_man: Hi, I’m Prajapati Hiten**
 
 - :blush:I have Completed B.C.A from Veer Narmad South Gujarat University.
-- 👀 I’m interested in Android App Developer
+- 👀 I’m interested in Android App Developer / Flutter App Developer
 - 🌱 I’m currently learning MVVM Architecture and flutter bloc
 - 📫 How to reach me email:- prajapatihiten386@gmail.com
 - :man_office_worker: Connect with me on linkedin:- www.linkedin.com/in/hiten-prajapati-1963252a5
